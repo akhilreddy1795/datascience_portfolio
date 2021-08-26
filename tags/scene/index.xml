@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Akhil Reddy</title>
+    <link>https://akhilreddy1795.github.io/datascience_portfolio/tags/scene/</link>
+    <description>Recent content in scene on Akhil Reddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://akhilreddy1795.github.io/datascience_portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 4: Lead Scoring Case study</title>
+      <link>https://akhilreddy1795.github.io/datascience_portfolio/post/project-4/</link>
+      <pubDate>Fri, 12 Feb 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://akhilreddy1795.github.io/datascience_portfolio/post/project-4/</guid>
+      <description>Data Science Lead Scoring Case Study: Project Overview   Created a logistic regression model that helps in identifying potential lead conversion rate to organisation Optimized model to provide 92% on test accuracy  Code and Resources Used  Python Version: 3.7 Packages: Pandas, numpy, sklearn, matplotlib, seaborn, statsmodel
+Data Cleaning:   Replacing select in data with NaN as these were the category were customer selected nothing which means a NaN object Dropping records which has no use for analysis Calculated percentage of misiisng values and treated with mean imputation for certain columns Inspected numerical columns for outliers and capped to 99 percentile  EDA  I looked at the distribution of data and tried to identify the most important feature in the columns that well explains the leads as well as conversion of customers</description>
+    </item>
+    
+    <item>
+      <title>Project 1 Exploratory Data Analysis on Bank Loan Applications</title>
+      <link>https://akhilreddy1795.github.io/datascience_portfolio/post/project-1/</link>
+      <pubDate>Sat, 17 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://akhilreddy1795.github.io/datascience_portfolio/post/project-1/</guid>
+      <description>Exploratory Data Analysis on Bank Loan Applications: Project Overview   Identify the patterns which indicates if a client has difficulty paying their installments Understanding the driving factors (or driver variables) behind loan default Finding consumer attributes and loan atrribites influence the tendency of default  Code and Resources Used  python version: 3.7 Packages: pandas, numpy, matplotlib, seaborn
+Data Cleaning   Identifying missing values in the data dropping records which having more than 30% mising values making days columns to positive using abs() function Changing the type of the numeric columns from object to int Imputing missing values with mean of that columns created age column with use of days_birth to represent age in terms of  EDA  Univariate Analysis categorical - categorical</description>
+    </item>
+    
+  </channel>
+</rss>
